@@ -1,0 +1,7 @@
+Nu am putut realiza o interfata care sa ne parcurga toate intrebarile si raspunsurile acestora,
+in cazul in care s-ar afla impreuna cu regulile intr-un fisier txt, deoarece, in cazul proiectului
+nostru intrebarea 2 depinde de raspunsul la intrebarea 1 si respectiv intrebarea 5 depinde de raspunsul la intrebarea 4.
+
+Spre exemplu cand un user raspunde la intrebarea 4, cu simptomul: Masina ii fierbe apa,
+nu este necesar sa intrebam user-ul apoi daca de exemplu are probleme cu alternatorul sau ii curge ulei din telescoape,
+deoarece prin metoda aleasa de noi filtram intrebarea 5 in functie de raspunsul de la intrebarea 4.

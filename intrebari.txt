@@ -1,0 +1,20 @@
+Ana are mere?,3
+F
+F1
+F2
+Ana are mere2?,3
+G
+G1
+G2
+Ana are mere?,3
+H
+H1
+H2
+Ana are mere?,3
+B
+B1
+B2
+Ana are mere?,3
+Z
+Z1
+Z2
